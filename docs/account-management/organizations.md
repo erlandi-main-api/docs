@@ -1,5 +1,5 @@
 ---
-Description: On Semaphore, an "organization" is an account management framework that lets you grant different permissions to team members and delegate project management within your account.
+Description: On  Semaphore, an "organization" is an account management framework that lets you grant different permissions to team members and delegate project management within your account.
 ---
 
 # Organizations
